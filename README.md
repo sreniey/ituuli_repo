@@ -130,7 +130,7 @@ Web Bluetooth is required for real device scanning and is currently supported in
 
 
 ## **Video**
-https://l1nk.dev/omqpc98
+https://drive.google.com/drive/folders/1CFwNNjj6OYZXWLo_uUEWHrDdUQhYtpXd?q=type:video%20parent:1CFwNNjj6OYZXWLo_uUEWHrDdUQhYtpXd
 
 
 
