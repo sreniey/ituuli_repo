@@ -126,7 +126,7 @@ Web Bluetooth is required for real device scanning and is currently supported in
 
 `ituuli-deploy.zip` contains the minimal static bundle (`index.html`, `style.css`, `script.js`) ready to drop onto any static host (GitHub Pages, Netlify, Vercel, etc.). Since Web Bluetooth requires HTTPS, make sure your host serves over `https://`.
 
-**OUR DEPLOYED LINK** : https://curious-daffodil-fc5c7d.netlify.app/
+**OUR DEPLOYED LINK** : (https://ituuli-repo.vercel.app/)
 
 
 ## **Video**
